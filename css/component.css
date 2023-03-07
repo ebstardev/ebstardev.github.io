@@ -35,7 +35,7 @@
 }
 
 img {
-	width: calc(100px + (70 - 30) * ((100vw - 320px) / (1200 - 320)));
+	width: 30%;
 }
 
 .main-title .thin {
